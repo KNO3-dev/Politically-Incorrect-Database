@@ -1,4 +1,4 @@
-<title>Files for jamming PMR comunications (walkie-talkies)</title>
+Files for jamming PMR comunications (walkie-talkies)
 
 Choose the channel to jam and play the file 
 <br>
